@@ -1,8 +1,8 @@
-import React from "react";
-import Mui_start from "./components/Mui_start";
+import './App.css'
+import Login from "./components/Login";
 
 const App = () => (
-  <div>test</div>
+  <Login />
 );
 
 export default App;
